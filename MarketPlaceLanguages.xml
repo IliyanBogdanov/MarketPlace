@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MarketPlaceScreenshots">
+ 
+<test name="MarketPlaceScreenshotsLanguageSpanish">
+<parameter name="Language" value="Spanish"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageEnglish">
+<parameter name="Language" value="English"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageFrench">
+<parameter name="Language" value="French"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageGerman">
+<parameter name="Language" value="German"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageItalian">
+<parameter name="Language" value="Italian"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageJapanese">
+<parameter name="Language" value="Japanese"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageChineseSimplified">
+<parameter name="Language" value="Chinese Simplified"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+<test name="MarketPlaceScreenshotsLanguageChineseTraditional">
+<parameter name="Language" value="Chinese Traditional"/> 
+<classes>
+<class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests"/>
+</classes>
+</test>
+
+</suite>

@@ -1,0 +1,112 @@
+2016-06-07 12:08:00 INFO  BaseTestFixture:33 - ===============================
+2016-06-07 12:08:00 INFO  BaseTestFixture:34 - Start Test - Market Place Taxes
+2016-06-07 12:08:00 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 12:18:14 INFO  BaseTestFixture:33 - ===============================
+2016-06-07 12:18:14 INFO  BaseTestFixture:34 - Start Test - Market Place Taxes
+2016-06-07 12:18:14 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 13:53:26 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 13:53:26 INFO  BaseTestFixture:36 - Start Test - Market Place Taxes
+2016-06-07 13:53:26 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 13:55:09 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 13:55:09 INFO  BaseTestFixture:36 - Start Test - Market Place Taxes
+2016-06-07 13:55:09 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 13:56:40 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 13:56:40 INFO  BaseTestFixture:36 - Start Test - Market Place Taxes
+2016-06-07 13:56:40 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:06:47 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 14:06:47 INFO  BaseTestFixture:36 - Start Test - Market Place Taxes
+2016-06-07 14:06:47 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:08:16 INFO  BaseTestFixture:35 - ===============================
+2016-06-07 14:08:16 INFO  BaseTestFixture:36 - Start Test - Market Place Taxes
+2016-06-07 14:08:16 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:15:06 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:15:06 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-06-07 14:15:06 INFO  BaseTestFixture:39 - ===============================
+2016-06-07 14:15:06 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-06-07 14:15:15 INFO  BaseTestFixture:44 - Browser is started
+2016-06-07 14:15:23 FATAL BaseTestFixture:64 - Before Test Errornull
+2016-06-07 14:15:23 FATAL BaseTestFixture:65 - [Ljava.lang.StackTraceElement;@54d901aa
+2016-06-07 14:15:33 FATAL BaseTestFixture:40 - LogIn Error: Timed out after 10 seconds waiting for element to be clickable: By.cssSelector: a[href='/login']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d747a0a3-6508-d04f-b3c4-b06a8773b28f
+2016-06-07 14:15:33 FATAL BaseTestFixture:41 - [Ljava.lang.StackTraceElement;@2d23faef
+2016-06-07 14:15:33 INFO  BaseTestFixture:49 - LogIn was successful.
+2016-06-07 14:15:33 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-07 14:16:23 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:16:23 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-06-07 14:16:23 INFO  BaseTestFixture:39 - ===============================
+2016-06-07 14:16:23 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-06-07 14:16:29 INFO  BaseTestFixture:44 - Browser is started
+2016-06-07 14:16:35 FATAL BaseTestFixture:64 - Before Test Errornull
+2016-06-07 14:16:35 FATAL BaseTestFixture:65 - [Ljava.lang.StackTraceElement;@54d901aa
+2016-06-07 14:16:46 FATAL BaseTestFixture:40 - LogIn Error: Timed out after 10 seconds waiting for element to be clickable: By.cssSelector: a[href='/login']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 561e6596-cc3b-a348-964c-497f4fcede9f
+2016-06-07 14:16:46 FATAL BaseTestFixture:41 - [Ljava.lang.StackTraceElement;@7cb8437d
+2016-06-07 14:16:46 INFO  BaseTestFixture:49 - LogIn was successful.
+2016-06-07 14:16:46 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-07 14:16:56 FATAL BaseTestFixture:149 - Validation: Fail
+2016-06-07 14:16:57 FATAL BaseTestFixture:152 - Test Error: Timed out after 10 seconds waiting for element to be clickable: By.xpath: //a[text()='Marketplace']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 561e6596-cc3b-a348-964c-497f4fcede9f
+2016-06-07 14:16:57 FATAL BaseTestFixture:153 - [Ljava.lang.StackTraceElement;@5e8cda75
+2016-06-07 14:16:57 INFO  BaseTestFixture:52 - 2. Excell Reader data: Abbreviation: AK , State: Alaska , City: Juneau , Address: 800 Glacier Avenue , GetZipCode: 99801
+2016-06-07 14:17:07 FATAL BaseTestFixture:149 - Validation: Fail
+2016-06-07 14:17:07 FATAL BaseTestFixture:152 - Test Error: Timed out after 10 seconds waiting for element to be clickable: By.xpath: //a[text()='Marketplace']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 561e6596-cc3b-a348-964c-497f4fcede9f
+2016-06-07 14:17:07 FATAL BaseTestFixture:153 - [Ljava.lang.StackTraceElement;@408e96d9
+2016-06-07 14:17:07 INFO  BaseTestFixture:52 - 3. Excell Reader data: Abbreviation: AZ , State: Arizona , City: Phoenix , Address: 400 E. Van Buren St., Ste. 600 , GetZipCode: 85004
+2016-06-07 14:17:24 FATAL BaseTestFixture:149 - Validation: Fail
+2016-06-07 14:17:24 FATAL BaseTestFixture:152 - Test Error: Timed out after 10 seconds waiting for element to be clickable: By.xpath: //a[text()='Marketplace']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 561e6596-cc3b-a348-964c-497f4fcede9f
+2016-06-07 14:17:24 FATAL BaseTestFixture:153 - [Ljava.lang.StackTraceElement;@4d8286c4
+2016-06-07 14:17:24 INFO  BaseTestFixture:52 - 4. Excell Reader data: Abbreviation: AR , State: Arkansas , City: Little Rock , Address: 2801 S. University Ave.  , GetZipCode: 72204
+2016-06-07 14:17:46 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:17:46 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-06-07 14:17:46 INFO  BaseTestFixture:39 - ===============================
+2016-06-07 14:17:46 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-06-07 14:17:50 INFO  BaseTestFixture:44 - Browser is started
+2016-06-07 14:17:56 FATAL BaseTestFixture:64 - Before Test Errornull
+2016-06-07 14:17:56 FATAL BaseTestFixture:65 - [Ljava.lang.StackTraceElement;@365a6a43
+2016-06-07 14:18:06 FATAL BaseTestFixture:40 - LogIn Error: Timed out after 10 seconds waiting for element to be clickable: By.cssSelector: a[href='/login']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7b5b11a7-9e9b-f843-9b0b-efc1cbd64cca
+2016-06-07 14:18:06 FATAL BaseTestFixture:41 - [Ljava.lang.StackTraceElement;@5ae95707
+2016-06-07 14:18:06 INFO  BaseTestFixture:49 - LogIn was successful.
+2016-06-07 14:18:06 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-07 14:18:39 INFO  BaseTestFixture:37 - ===============================
+2016-06-07 14:18:39 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-06-07 14:18:39 INFO  BaseTestFixture:39 - ===============================
+2016-06-07 14:18:39 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-06-07 14:18:45 INFO  BaseTestFixture:44 - Browser is started
+2016-06-07 14:18:50 FATAL BaseTestFixture:64 - Before Test Errornull
+2016-06-07 14:18:50 FATAL BaseTestFixture:65 - [Ljava.lang.StackTraceElement;@365a6a43
+2016-06-07 14:19:00 FATAL BaseTestFixture:40 - LogIn Error: Timed out after 10 seconds waiting for element to be clickable: By.cssSelector: a[href='/login']
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9bbd5991-8341-7d49-81b5-13983428725d
+2016-06-07 14:19:00 FATAL BaseTestFixture:41 - [Ljava.lang.StackTraceElement;@5ae95707
+2016-06-07 14:19:00 INFO  BaseTestFixture:49 - LogIn was successful.
+2016-06-07 14:19:00 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104

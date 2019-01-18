@@ -1,0 +1,226 @@
+2016-06-06 14:04:20 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:04:20 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:04:20 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:04:28 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:04:34 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:06:37 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:06:37 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:06:37 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:06:40 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:06:46 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:06:46 INFO  BaseTestFixture:14 - LoginLink is found!!!
+2016-06-06 14:22:55 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:22:55 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:22:55 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:22:59 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:23:05 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:23:05 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:23:12 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:23:24 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:23:41 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 14:23:44 INFO  BaseTestFixture:36 - Element 'TestSubscriptionProductAmount' is found!!!
+2016-06-06 14:23:44 INFO  BaseTestFixture:43 - Element 'TestSubscriptionProductAmountByNowButton' is found!!!
+2016-06-06 14:23:52 INFO  BaseTestFixture:50 - Element 'TestSubscriptionInkspacePremiumOption' is found!!!
+2016-06-06 14:23:55 INFO  BaseTestFixture:59 - Element 'CreateOrderContinueButton' is found!!!
+2016-06-06 14:24:00 INFO  BaseTestFixture:67 - Element 'BillingDetailsEditButton' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:74 - Element 'BillingDetailsAddressTextArea' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:74 - Element 'BillingDetailsAddressTextArea' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:81 - Element 'BillingDetailsCityTextField' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:81 - Element 'BillingDetailsCityTextField' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:88 - Element 'BillingDetailsZipCodeTextField' is found!!!
+2016-06-06 14:24:01 INFO  BaseTestFixture:88 - Element 'BillingDetailsZipCodeTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:95 - Element 'BillingDetailsPhoneNumberTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:95 - Element 'BillingDetailsPhoneNumberTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:109 - Element 'BllingDetailsCreditCardNoTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:109 - Element 'BllingDetailsCreditCardNoTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:116 - Element 'BllingDetailsSecurityCodeTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:116 - Element 'BllingDetailsSecurityCodeTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:123 - Element 'BllingDetailsNameTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:123 - Element 'BllingDetailsNameTextField' is found!!!
+2016-06-06 14:24:02 INFO  BaseTestFixture:130 - Element 'BllingDetailsStateSelect' is found!!!
+2016-06-06 14:24:03 INFO  BaseTestFixture:102 - Element 'BllingDetailsContinueButton' is found!!!
+2016-06-06 14:24:03 INFO  BaseTestFixture:137 - Element 'BllingDetailsPaymentDetailsConfirmation' is found!!!
+2016-06-06 14:24:09 INFO  BaseTestFixture:145 - Element 'ConfirmOptionPlaceOrderButton' is found!!!
+2016-06-06 14:24:10 INFO  BaseTestFixture:229 - Taxes for this subscription are: $0.00
+2016-06-06 14:24:10 INFO  BaseTestFixture:145 - Element 'ConfirmOptionPlaceOrderButton' is found!!!
+2016-06-06 14:24:20 INFO  BaseTestFixture:152 - Element 'OrderReceiptGoToApplications' is found!!!
+2016-06-06 14:24:20 INFO  BaseTestFixture:152 - Element 'OrderReceiptGoToApplications' is found!!!
+2016-06-06 14:24:23 INFO  BaseTestFixture:159 - Element 'MarketPlaceMenuManageItem' is found!!!
+2016-06-06 14:24:23 INFO  BaseTestFixture:166 - Element 'MarketPlaceMenuManageItemSubmenuAccount' is found!!!
+2016-06-06 14:24:26 INFO  BaseTestFixture:173 - Element 'MarketPlaceSubmenuAccountApplicationsOption' is found!!!
+2016-06-06 14:24:28 INFO  BaseTestFixture:180 - Element 'MarketPlaceSubmenuAccountApplicationsOptionProductButton' is found!!!
+2016-06-06 14:24:29 INFO  BaseTestFixture:187 - Element 'MarketPlaceProductButtonCancellSubscription' is found!!!
+2016-06-06 14:24:30 INFO  BaseTestFixture:194 - Element 'MarketPlaceProductButtonCancellSubscriptionConfirmation' is found!!!
+2016-06-06 14:24:33 INFO  BaseTestFixture:201 - Element 'MarketPlaceBrowseMarketplaceButton' is found!!!
+2016-06-06 14:24:33 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:43:37 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:43:37 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:43:37 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:43:45 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:43:51 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:43:52 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:44:01 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:44:08 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 14:44:13 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:44:24 FATAL BaseTestFixture:109 - Error: The given selector menu.adb-toggle_buttons.adb-toolbar--item > button.adb-toggle_buttons--button.adb-button__square_small.adb-js-slider-next > i. adb-icon__arrow_right is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: An invalid or illegal selector was specified
+Command duration or timeout: 59 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dfe9cf98-0d59-c54e-9033-c3d6d40712a2
+*** Element info: {Using=css selector, value=menu.adb-toggle_buttons.adb-toolbar--item > button.adb-toggle_buttons--button.adb-button__square_small.adb-js-slider-next > i. adb-icon__arrow_right}
+2016-06-06 14:44:24 FATAL BaseTestFixture:110 - Error: [Ljava.lang.StackTraceElement;@6f6621e3
+2016-06-06 14:44:24 INFO  BaseTestFixture:52 - 2. Excell Reader data: Abbreviation: AK , State: Alaska , City: Juneau , Address: 800 Glacier Avenue , GetZipCode: 99801
+2016-06-06 14:44:24 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:44:33 FATAL BaseTestFixture:109 - Error: The given selector menu.adb-toggle_buttons.adb-toolbar--item > button.adb-toggle_buttons--button.adb-button__square_small.adb-js-slider-next > i. adb-icon__arrow_right is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: An invalid or illegal selector was specified
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:49'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0.1, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dfe9cf98-0d59-c54e-9033-c3d6d40712a2
+*** Element info: {Using=css selector, value=menu.adb-toggle_buttons.adb-toolbar--item > button.adb-toggle_buttons--button.adb-button__square_small.adb-js-slider-next > i. adb-icon__arrow_right}
+2016-06-06 14:44:33 FATAL BaseTestFixture:110 - Error: [Ljava.lang.StackTraceElement;@3bd3d05e
+2016-06-06 14:44:33 INFO  BaseTestFixture:52 - 3. Excell Reader data: Abbreviation: AZ , State: Arizona , City: Phoenix , Address: 400 E. Van Buren St., Ste. 600 , GetZipCode: 85004
+2016-06-06 14:44:33 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:48:43 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:48:43 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:48:43 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:48:50 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:48:56 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:48:56 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:49:03 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:49:11 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 14:49:16 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:51:38 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:51:38 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:51:38 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:51:41 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:51:46 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:51:47 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:51:53 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:52:00 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 14:52:05 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:52:33 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 14:53:39 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:53:39 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:53:39 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:53:46 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:53:51 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:53:52 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:53:57 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:54:04 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 14:54:09 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 14:54:12 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 14:54:12 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 14:54:14 INFO  BaseTestFixture:36 - Element 'TestSubscriptionProductAmount' is found!!!
+2016-06-06 14:54:14 INFO  BaseTestFixture:43 - Element 'TestSubscriptionProductAmountByNowButton' is found!!!
+2016-06-06 14:54:22 INFO  BaseTestFixture:50 - Element 'TestSubscriptionInkspacePremiumOption' is found!!!
+2016-06-06 14:56:33 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 14:56:33 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 14:56:33 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 14:56:36 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 14:56:41 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 14:56:42 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 14:56:48 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 14:56:55 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 14:57:00 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 15:06:49 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 15:06:49 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 15:06:49 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 15:06:53 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 15:06:58 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 15:06:59 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 15:07:07 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 15:07:14 INFO  BaseTestFixture:52 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 15:07:19 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 15:07:32 INFO  BaseTestFixture:236 - Element 'MarketPlaceMoreSubscriptionRightArrow' is found!!!
+2016-06-06 15:07:39 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 15:55:06 INFO  BaseTestFixture:31 - ==========================
+2016-06-06 15:55:06 INFO  BaseTestFixture:32 - Start Test - Market Place Taxes
+2016-06-06 15:55:06 INFO  BaseTestFixture:33 - ==========================
+2016-06-06 15:55:12 INFO  BaseTestFixture:35 - Browser is started
+2016-06-06 15:55:18 INFO  BaseTestFixture:40 - Go to MarketPlace
+2016-06-06 15:55:19 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-06-06 15:55:20 INFO  BaseTestFixture:23 - Element 'LoginLink' was clicked.
+2016-06-06 15:55:24 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-06-06 15:55:24 INFO  BaseTestFixture:25 - Element 'LoginSubmitButton' was clicked.
+2016-06-06 15:55:31 INFO  BaseTestFixture:50 - LogIn was successful.
+2016-06-06 15:55:31 INFO  BaseTestFixture:53 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-06-06 15:55:37 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-06-06 15:55:37 INFO  BaseTestFixture:56 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-06-06 15:55:47 INFO  BaseTestFixture:236 - Element 'MarketPlaceMoreSubscriptionRightArrow' is found!!!
+2016-06-06 15:55:47 INFO  BaseTestFixture:64 - Element 'MarketPlaceMoreSubscriptionRightArrow' was clicked.
+2016-06-06 15:55:47 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-06-06 15:55:47 INFO  BaseTestFixture:68 - Element 'TestSubscriptionProduct' was clicked.
+2016-06-06 15:55:49 INFO  BaseTestFixture:36 - Element 'TestSubscriptionProductAmount' is found!!!
+2016-06-06 15:55:49 INFO  BaseTestFixture:70 - Element 'TestSubscriptionProductAmount' was clicked.
+2016-06-06 15:55:49 INFO  BaseTestFixture:43 - Element 'TestSubscriptionProductAmountByNowButton' is found!!!
+2016-06-06 15:55:55 INFO  BaseTestFixture:72 - Element 'TestSubscriptionProductAmountByNowButton' was clicked.
+2016-06-06 15:55:57 INFO  BaseTestFixture:50 - Element 'TestSubscriptionInkspacePremiumOption' is found!!!
+2016-06-06 15:55:57 INFO  BaseTestFixture:74 - Element 'TestSubscriptionInkspacePremiumOption' was clicked.
+2016-06-06 15:56:00 INFO  BaseTestFixture:59 - Element 'CreateOrderContinueButton' is found!!!
+2016-06-06 15:56:00 INFO  BaseTestFixture:76 - Element 'CreateOrderContinueButton' was clicked.
+2016-06-06 15:56:04 INFO  BaseTestFixture:67 - Element 'BillingDetailsEditButton' is found!!!
+2016-06-06 15:56:05 INFO  BaseTestFixture:78 - Element 'BillingDetailsEditButton' was clicked.
+2016-06-06 15:56:05 INFO  BaseTestFixture:74 - Element 'BillingDetailsAddressTextArea' is found!!!
+2016-06-06 15:56:05 INFO  BaseTestFixture:81 - Input field 'BillingDetailsAddressTextArea' was clear.
+2016-06-06 15:56:05 INFO  BaseTestFixture:74 - Element 'BillingDetailsAddressTextArea' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:83 - Type value: 103 North Perry St., in Element 'BillingDetailsAddressTextArea'.
+2016-06-06 15:56:06 INFO  BaseTestFixture:81 - Element 'BillingDetailsCityTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:86 - Input field 'BillingDetailsCityTextField' was clear.
+2016-06-06 15:56:06 INFO  BaseTestFixture:81 - Element 'BillingDetailsCityTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:88 - Type value: Montgomery, in Element 'BillingDetailsCityTextField'.
+2016-06-06 15:56:06 INFO  BaseTestFixture:88 - Element 'BillingDetailsZipCodeTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:91 - Input field 'BillingDetailsZipCodeTextField' was clear.
+2016-06-06 15:56:06 INFO  BaseTestFixture:88 - Element 'BillingDetailsZipCodeTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:93 - Type value: 36104, in Element 'BillingDetailsZipCodeTextField'.
+2016-06-06 15:56:06 INFO  BaseTestFixture:95 - Element 'BillingDetailsPhoneNumberTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:96 - Input field 'BillingDetailsPhoneNumberTextField' was clear.
+2016-06-06 15:56:06 INFO  BaseTestFixture:95 - Element 'BillingDetailsPhoneNumberTextField' is found!!!
+2016-06-06 15:56:06 INFO  BaseTestFixture:98 - Type value: 1-866-234-5382, in Element 'BillingDetailsPhoneNumberTextField'.
+2016-06-06 15:56:13 INFO  BaseTestFixture:109 - Element 'BllingDetailsCreditCardNoTextField' is found!!!
+2016-06-06 15:56:13 INFO  BaseTestFixture:101 - Input field 'BllingDetailsCreditCardNoTextField' was clear.
+2016-06-06 15:56:25 INFO  BaseTestFixture:109 - Element 'BllingDetailsCreditCardNoTextField' is found!!!
+2016-06-06 15:56:25 INFO  BaseTestFixture:103 - Type value: 4111111111111111, in Element 'BllingDetailsCreditCardNoTextField'.
+2016-06-06 15:56:32 INFO  BaseTestFixture:116 - Element 'BllingDetailsSecurityCodeTextField' is found!!!
+2016-06-06 15:56:32 INFO  BaseTestFixture:106 - Input field 'BllingDetailsSecurityCodeTextField' was clear.
+2016-06-06 15:56:33 INFO  BaseTestFixture:116 - Element 'BllingDetailsSecurityCodeTextField' is found!!!
+2016-06-06 15:56:33 INFO  BaseTestFixture:108 - Type value: 123, in Element 'BllingDetailsSecurityCodeTextField'.
+2016-06-06 15:56:34 INFO  BaseTestFixture:123 - Element 'BllingDetailsNameTextField' is found!!!
+2016-06-06 15:56:34 INFO  BaseTestFixture:111 - Input field 'BllingDetailsNameTextField' was clear.
+2016-06-06 15:56:35 INFO  BaseTestFixture:123 - Element 'BllingDetailsNameTextField' is found!!!
+2016-06-06 15:56:35 INFO  BaseTestFixture:113 - Type value: Nenko Nenkov, in Element 'BllingDetailsNameTextField'.
+2016-06-06 15:56:35 INFO  BaseTestFixture:130 - Element 'BllingDetailsStateSelect' is found!!!
+2016-06-06 15:56:35 INFO  BaseTestFixture:116 - State Abbreviation was selected: AL
+2016-06-06 15:56:36 INFO  BaseTestFixture:102 - Element 'BllingDetailsContinueButton' is found!!!
+2016-06-06 15:56:37 INFO  BaseTestFixture:119 - Element 'BllingDetailsContinueButton' was clicked.
+2016-06-06 15:56:38 INFO  BaseTestFixture:137 - Element 'BllingDetailsPaymentDetailsConfirmation' is found!!!
+2016-06-06 15:56:38 INFO  BaseTestFixture:121 - Element 'BllingDetailsPaymentDetailsConfirmation' was clicked.
+2016-06-06 15:56:43 INFO  BaseTestFixture:145 - Element 'ConfirmOptionPlaceOrderButton' is found!!!
+2016-06-06 15:56:43 INFO  BaseTestFixture:123 - Element 'ConfirmOptionPlaceOrderButton' was clicked.
+2016-06-06 15:56:43 INFO  BaseTestFixture:229 - Taxes for this subscription are: $0.00
+2016-06-06 15:56:43 INFO  BaseTestFixture:126 - Validation: Pass
+2016-06-06 15:56:43 INFO  BaseTestFixture:145 - Element 'ConfirmOptionPlaceOrderButton' is found!!!
+2016-06-06 15:56:43 INFO  BaseTestFixture:129 - Element 'ConfirmOptionPlaceOrderButton' was clicked.
+2016-06-06 15:56:53 INFO  BaseTestFixture:152 - Element 'OrderReceiptGoToApplications' is found!!!
+2016-06-06 15:56:58 INFO  BaseTestFixture:152 - Element 'OrderReceiptGoToApplications' is found!!!
+2016-06-06 15:57:01 INFO  BaseTestFixture:133 - Element 'OrderReceiptGoToApplications' was clicked.
+2016-06-06 15:57:01 INFO  BaseTestFixture:159 - Element 'MarketPlaceMenuManageItem' is found!!!
+2016-06-06 15:57:01 INFO  BaseTestFixture:135 - Element 'MarketPlaceMenuManageItem' was clicked.
+2016-06-06 15:57:01 INFO  BaseTestFixture:166 - Element 'MarketPlaceMenuManageItemSubmenuAccount' is found!!!
+2016-06-06 15:57:05 INFO  BaseTestFixture:137 - Element 'MarketPlaceMenuManageItemSubmenuAccount' was clicked.
+2016-06-06 15:57:05 INFO  BaseTestFixture:173 - Element 'MarketPlaceSubmenuAccountApplicationsOption' is found!!!
+2016-06-06 15:57:07 INFO  BaseTestFixture:139 - Element 'MarketPlaceSubmenuAccountApplicationsOption' was clicked.
+2016-06-06 15:57:07 INFO  BaseTestFixture:180 - Element 'MarketPlaceSubmenuAccountApplicationsOptionProductButton' is found!!!
+2016-06-06 15:57:07 INFO  BaseTestFixture:141 - Element 'MarketPlaceSubmenuAccountApplicationsOptionProductButton' was clicked.
+2016-06-06 15:57:07 INFO  BaseTestFixture:187 - Element 'MarketPlaceProductButtonCancellSubscription' is found!!!
+2016-06-06 15:57:07 INFO  BaseTestFixture:143 - Element 'MarketPlaceProductButtonCancellSubscription' was clicked.
+2016-06-06 15:57:10 INFO  BaseTestFixture:194 - Element 'MarketPlaceProductButtonCancellSubscriptionConfirmation' is found!!!
+2016-06-06 15:57:11 INFO  BaseTestFixture:145 - Element 'MarketPlaceProductButtonCancellSubscriptionConfirmation' was clicked.
+2016-06-06 15:57:15 INFO  BaseTestFixture:201 - Element 'MarketPlaceBrowseMarketplaceButton' is found!!!

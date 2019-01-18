@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MarketPlaceScreenshots]">
+  <parameter name="Language" value="Chinese Traditional"/>
+  <test name="MarketPlaceScreenshotsLanguageChineseTraditional(failed)">
+    <parameter name="Language" value="Chinese Traditional"/>
+    <classes>
+      <class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="userIsLoggedIn"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- MarketPlaceLocalizationTests.MarketPlaceLocalizationTests -->
+    </classes>
+  </test> <!-- MarketPlaceScreenshotsLanguageChineseTraditional(failed) -->
+</suite> <!-- Failed suite [MarketPlaceScreenshots] -->

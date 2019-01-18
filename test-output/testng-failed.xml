@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="MarketPlaceLocalizationTests.MarketPlaceLocalizationTests">
+        <methods>
+          <include name="allApps"/>
+          <include name="inkspace"/>
+          <include name="tabs"/>
+          <include name="wacomInkspaceApp"/>
+          <include name="closeBrowser"/>
+          <include name="userIsLoggedIn"/>
+          <include name="bambooPaper"/>
+          <include name="signProPDF"/>
+          <include name="setUp"/>
+          <include name="FAQ"/>
+        </methods>
+      </class> <!-- MarketPlaceLocalizationTests.MarketPlaceLocalizationTests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

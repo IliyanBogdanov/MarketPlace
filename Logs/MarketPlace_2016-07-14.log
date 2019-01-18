@@ -1,0 +1,99 @@
+2016-07-14 16:00:58 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:05:37 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:05:37 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:05:37 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:05:37 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:05:46 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:06:10 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:06:10 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:06:10 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:06:10 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:06:15 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:07:01 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:07:01 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:07:01 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:07:01 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:07:17 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:08:09 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:08:09 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:08:09 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:08:09 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:08:15 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:11:20 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:11:20 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:11:20 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:11:20 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:11:31 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:14:11 INFO  BaseTestFixture:37 - ===============================
+2016-07-14 16:14:11 INFO  BaseTestFixture:38 - Start Test - Market Place Taxes
+2016-07-14 16:14:11 INFO  BaseTestFixture:39 - ===============================
+2016-07-14 16:14:11 INFO  BaseTestFixture:42 - All Screenshots with errors are deleted.
+2016-07-14 16:14:20 INFO  BaseTestFixture:44 - Browser is started
+2016-07-14 16:14:27 INFO  BaseTestFixture:53 - Go to MarketPlace
+2016-07-14 16:14:28 INFO  BaseTestFixture:14 - Element 'LoginLink' is found!!!
+2016-07-14 16:14:32 INFO  BaseTestFixture:23 - Element 'LoginLink' was clicked.
+2016-07-14 16:14:33 INFO  BaseTestFixture:22 - Element 'LoginSubmitButton' is found!!!
+2016-07-14 16:14:33 INFO  BaseTestFixture:25 - Element 'LoginSubmitButton' was clicked.
+2016-07-14 16:14:41 INFO  BaseTestFixture:49 - LogIn was successful.
+2016-07-14 16:14:41 INFO  BaseTestFixture:64 - 1. Excell Reader data: Abbreviation: AL , State: Alabama , City: Montgomery , Address: 103 North Perry St. , GetZipCode: 36104
+2016-07-14 16:14:45 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-07-14 16:14:47 INFO  BaseTestFixture:72 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-07-14 16:14:47 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:14:48 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:14:48 INFO  BaseTestFixture:85 - Element 'TestSubscriptionProduct' was clicked.
+2016-07-14 16:15:18 FATAL BaseTestFixture:167 - Validation: Fail
+2016-07-14 16:15:19 FATAL BaseTestFixture:170 - Test Error: Timed out after 30 seconds waiting for element to be clickable: By.xpath: //a[text()='$100.00']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72fc5579-d9f7-114d-bbbb-81a40920a875
+2016-07-14 16:15:19 FATAL BaseTestFixture:171 - [Ljava.lang.StackTraceElement;@3b05a99b
+2016-07-14 16:15:19 INFO  BaseTestFixture:64 - 2. Excell Reader data: Abbreviation: AK , State: Alaska , City: Juneau , Address: 800 Glacier Avenue , GetZipCode: 99801
+2016-07-14 16:15:19 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-07-14 16:15:20 INFO  BaseTestFixture:72 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-07-14 16:15:20 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:15:21 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:15:21 INFO  BaseTestFixture:85 - Element 'TestSubscriptionProduct' was clicked.
+2016-07-14 16:15:51 FATAL BaseTestFixture:167 - Validation: Fail
+2016-07-14 16:15:51 FATAL BaseTestFixture:170 - Test Error: Timed out after 30 seconds waiting for element to be clickable: By.xpath: //a[text()='$100.00']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72fc5579-d9f7-114d-bbbb-81a40920a875
+2016-07-14 16:15:51 FATAL BaseTestFixture:171 - [Ljava.lang.StackTraceElement;@6e495b48
+2016-07-14 16:15:51 INFO  BaseTestFixture:64 - 3. Excell Reader data: Abbreviation: AZ , State: Arizona , City: Phoenix , Address: 400 E. Van Buren St., Ste. 600 , GetZipCode: 85004
+2016-07-14 16:15:52 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-07-14 16:15:52 INFO  BaseTestFixture:72 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-07-14 16:15:52 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:15:52 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:15:53 INFO  BaseTestFixture:85 - Element 'TestSubscriptionProduct' was clicked.
+2016-07-14 16:16:23 FATAL BaseTestFixture:167 - Validation: Fail
+2016-07-14 16:16:23 FATAL BaseTestFixture:170 - Test Error: Timed out after 30 seconds waiting for element to be clickable: By.xpath: //a[text()='$100.00']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72fc5579-d9f7-114d-bbbb-81a40920a875
+2016-07-14 16:16:23 FATAL BaseTestFixture:171 - [Ljava.lang.StackTraceElement;@d5ce97f
+2016-07-14 16:16:23 INFO  BaseTestFixture:64 - 4. Excell Reader data: Abbreviation: AR , State: Arkansas , City: Little Rock , Address: 2801 S. University Ave.  , GetZipCode: 72204
+2016-07-14 16:16:23 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-07-14 16:16:23 INFO  BaseTestFixture:72 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-07-14 16:16:24 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:16:24 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:16:24 INFO  BaseTestFixture:85 - Element 'TestSubscriptionProduct' was clicked.
+2016-07-14 16:16:54 FATAL BaseTestFixture:167 - Validation: Fail
+2016-07-14 16:16:55 FATAL BaseTestFixture:170 - Test Error: Timed out after 30 seconds waiting for element to be clickable: By.xpath: //a[text()='$100.00']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Georgis-iMac.local', ip: '192.168.11.187', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72fc5579-d9f7-114d-bbbb-81a40920a875
+2016-07-14 16:16:55 FATAL BaseTestFixture:171 - [Ljava.lang.StackTraceElement;@55ec556
+2016-07-14 16:16:55 INFO  BaseTestFixture:64 - 5. Excell Reader data: Abbreviation: CA , State: California , City: Sacramento , Address: 1608 Sacramento St. , GetZipCode: 95814
+2016-07-14 16:16:55 INFO  BaseTestFixture:208 - Element 'MarketPlaceMenuMarketplaceItem' is found!!!
+2016-07-14 16:16:55 INFO  BaseTestFixture:72 - Element 'MarketPlaceMenuMarketplaceItem' was clicked.
+2016-07-14 16:16:56 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:16:56 INFO  BaseTestFixture:29 - Element 'TestSubscriptionProduct' is found!!!
+2016-07-14 16:16:56 INFO  BaseTestFixture:85 - Element 'TestSubscriptionProduct' was clicked.
